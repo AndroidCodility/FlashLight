@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashLight Torch</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="msg_error">Your device doesn\'t support flash light!</string>
+    <string name="ok">Ok</string>
+    <string name="info">This is sample application for turning on and off device flashlight / torchlight with simple touch.</string>
+</resources>
